@@ -104,6 +104,10 @@
         <img src="./photos/competence/react.png" width="48" height="48" alt="Jsonnet" />
       <br>React
     </td> 
+    <td align="center" width="96">
+        <img src="./photos/competence/angular.png" width="48" height="48" alt="Jsonnet" />
+      <br>Angular
+    </td> 
   </tr>
 </table>
 <br>
