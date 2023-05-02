@@ -143,10 +143,10 @@
 <br>
 <table align="center">
   <tr>
-  <td colspan="5" align="center"> 
+  <td colspan="3" align="center"> 
         🗃️ Big Data
     </td>
-   <td colspan="4" align="center">
+   <td colspan="2" align="center">
         🌱 OS
     </td>
   </tr>
